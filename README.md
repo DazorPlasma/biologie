@@ -21,4 +21,4 @@
 
 
 
-website realizat cu 💖 de Lefterache Ștefan
+website realizat cu 💖 de **Lefterache Ștefan**
