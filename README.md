@@ -17,3 +17,4 @@ Spor la învățat copii!
 - fiecare notiță conține o bucată „digerabilă” de informații; ține minte să urmezi toate link-urile! (ex: hipofiză ->)
 - ai pe stânga o listă cu toate notițele
 - dacă texul este prea mare, încearcă „versiunea site desktop”
+- dacă sesizei o greșeală sau ai o sugestie, anunță-mă imediat!
