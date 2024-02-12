@@ -14,7 +14,7 @@
 
 ### De reținut
 - link-urile la tag-uri (ex: #boală, #hormon) nu merg 😢
-- fiecare notiță conține o bucată „digerabilă” de informații; ține minte să urmezi toate link-urile! (ex: hipofiză ->)
+- fiecare notiță conține o bucată „digerabilă” de informații; ține minte să urmezi toate link-urile! (ex: hipofiză -> foliculostimulant -> estrogen etc.)
 - ai pe stânga o listă cu toate notițele
 - pe mobil, dacă texul este prea mare, încearcă „versiunea site desktop”
 - dacă sesizei o greșeală sau ai o sugestie, anunță-mă imediat!
