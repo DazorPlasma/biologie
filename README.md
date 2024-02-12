@@ -1,6 +1,6 @@
 # Pregătire pentru testul la biologie
 
-Spor la învățat copii!
+Îngrași porcul în ajun hmm? 🥲
 
 ### Glande
 
