@@ -18,3 +18,7 @@
 - ai pe stânga o listă cu toate notițele
 - pe mobil, dacă texul este prea mare, încearcă „versiunea site desktop”
 - dacă sesizei o greșeală sau ai o sugestie, anunță-mă imediat!
+
+
+
+website realizat cu 💖 de Lefterache Ștefan
